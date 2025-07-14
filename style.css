@@ -1,0 +1,43 @@
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  background: #f9f9f9;
+  color: #333;
+}
+header {
+  background: #e0e0e0;
+  padding: 1rem;
+  text-align: center;
+}
+#asana-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+  padding: 1rem;
+}
+.card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  padding: 1rem;
+  text-align: center;
+}
+.card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+.card h2 {
+  margin: 0.5rem 0 0.2rem;
+}
+.card .category {
+  font-size: 0.9rem;
+  color: #777;
+}
+.audio-button {
+  display: inline-block;
+  margin: 0.3rem;
+  cursor: pointer;
+  color: #1976d2;
+}
