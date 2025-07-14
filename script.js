@@ -18,7 +18,7 @@ fetch("asana_data.json")
       playSanskrit.className = "audio-button";
       playSanskrit.innerHTML = "🔊 Pronuncia Sanscrita";
       playSanskrit.onclick = () => {
-        new Audio("assets/audio/" + asana.audio_sanskrit).play();
+        new Audio("assets/audio/audio asana/" + asana.audio_sanskrit).play();
       };
 
       const eng = document.createElement("h3");
@@ -28,7 +28,7 @@ fetch("asana_data.json")
       playEnglish.className = "audio-button";
       playEnglish.innerHTML = "🔊 Pronuncia Inglese";
       playEnglish.onclick = () => {
-        new Audio("assets/audio/" + asana.audio_english).play();
+        new Audio("assets/audio/audio asana/" + asana.audio_english).play();
       };
 
       const cat = document.createElement("div");
