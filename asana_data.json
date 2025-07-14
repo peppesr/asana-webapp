@@ -5,8 +5,8 @@
     "english_name": "Raised Harm Pose",
     "category": "HATHA YOGA - ASANA IN PIEDI",
     "image": "HASTA UTTHANASANA.png",
-    "audio_sanskrit": "hasta_utthanasana.mp3",
-    "audio_english": "raised_harm_pose.mp3"
+    "audio_sanskrit": "hasta_utthanasana_sanskrit.mp3",
+    "audio_english": "hasta_utthanasana_english.mp3"
   },
   {
     "id": "asana_2",
@@ -14,8 +14,8 @@
     "english_name": "Shooting Bow Pose",
     "category": "HATHA YOGA - ASANA IN PIEDI",
     "image": "AKARNA DHANURASANA.png",
-    "audio_sanskrit": "akarna_dhanurasana.mp3",
-    "audio_english": "shooting_bow_pose.mp3"
+    "audio_sanskrit": "akarna_dhanurasana_sanskrit.mp3",
+    "audio_english": "akarna_dhanurasana_english.mp3"
   },
   {
     "id": "asana_3",
@@ -23,8 +23,8 @@
     "english_name": "Mountain Pose",
     "category": "HATHA YOGA - ASANA IN PIEDI",
     "image": "TADASANA.png",
-    "audio_sanskrit": "tadasana.mp3",
-    "audio_english": "mountain_pose.mp3"
+    "audio_sanskrit": "tadasana_sanskrit.mp3",
+    "audio_english": "tadasana_english.mp3"
   },
   {
     "id": "asana_4",
@@ -32,8 +32,8 @@
     "english_name": "Swaying Palm Tree Pose Block",
     "category": "HATHA YOGA - ASANA IN PIEDI",
     "image": "TIRYAKA TADASANA.png",
-    "audio_sanskrit": "tiryaka_tadasana.mp3",
-    "audio_english": "swaying_palm_tree_pose_block.mp3"
+    "audio_sanskrit": "tiryaka_tadasana_sanskrit.mp3",
+    "audio_english": "tiryaka_tadasana_english.mp3"
   },
   {
     "id": "asana_5",
@@ -41,8 +41,8 @@
     "english_name": "Standing Spinal Twist",
     "category": "HATHA YOGA - ASANA IN PIEDI",
     "image": "KATI CHAKRASANA.png",
-    "audio_sanskrit": "kati_chakrasana.mp3",
-    "audio_english": "standing_spinal_twist.mp3"
+    "audio_sanskrit": "kati_chakrasana_sanskrit.mp3",
+    "audio_english": "kati_chakrasana_english.mp3"
   },
   {
     "id": "asana_6",
@@ -50,8 +50,8 @@
     "english_name": "Swaying Waist Rotating Pose",
     "category": "HATHA YOGA - ASANA IN PIEDI",
     "image": "TIRYAKA KATI CHAKRASANA.png",
-    "audio_sanskrit": "tiryaka_kati_chakrasana.mp3",
-    "audio_english": "swaying_waist_rotating_pose.mp3"
+    "audio_sanskrit": "tiryaka_kati_chakrasana_sanskrit.mp3",
+    "audio_english": "tiryaka_kati_chakrasana_english.mp3"
   },
   {
     "id": "asana_7",
@@ -59,8 +59,8 @@
     "english_name": "Revolved Half Wide Legged Forward Bend Pose Hands Shoulders",
     "category": "HATHA YOGA - ASANA IN PIEDI",
     "image": "MERU PRISHTHASANA.png",
-    "audio_sanskrit": "meru_prishthasana.mp3",
-    "audio_english": "revolved_half_wide_legged_forward_bend_pose_hands_shoulders.mp3"
+    "audio_sanskrit": "meru_prishthasana_sanskrit.mp3",
+    "audio_english": "meru_prishthasana_english.mp3"
   },
   {
     "id": "asana_8",
@@ -68,8 +68,8 @@
     "english_name": "Center Splits Pose",
     "category": "HATHA YOGA - ASANA IN PIEDI",
     "image": "SAMAKONASANA.png",
-    "audio_sanskrit": "samakonasana.mp3",
-    "audio_english": "center_splits_pose.mp3"
+    "audio_sanskrit": "samakonasana_sanskrit.mp3",
+    "audio_english": "samakonasana_english.mp3"
   },
   {
     "id": "asana_9",
@@ -77,8 +77,8 @@
     "english_name": "Standing Yoga Seal Pose",
     "category": "HATHA YOGA - ASANA IN PIEDI",
     "image": "DWIKONASANA.png",
-    "audio_sanskrit": "dwikonasana.mp3",
-    "audio_english": "standing_yoga_seal_pose.mp3"
+    "audio_sanskrit": "dwikonasana_sanskrit.mp3",
+    "audio_english": "dwikonasana_english.mp3"
   },
   {
     "id": "asana_10",
@@ -86,8 +86,8 @@
     "english_name": "Triangle Pose",
     "category": "HATHA YOGA - ASANA IN PIEDI",
     "image": "TRIKONASANA.png",
-    "audio_sanskrit": "trikonasana.mp3",
-    "audio_english": "triangle_pose.mp3"
+    "audio_sanskrit": "trikonasana_sanskrit.mp3",
+    "audio_english": "trikonasana_english.mp3"
   },
   {
     "id": "asana_11",
@@ -95,8 +95,8 @@
     "english_name": "Seated Forward Bend",
     "category": "HATHA YOGA - ASANA DI FLESSIONE IN AVANTI",
     "image": "PASCHIMOTTANASANA.png",
-    "audio_sanskrit": "paschimottanasana.mp3",
-    "audio_english": "seated_forward_bend.mp3"
+    "audio_sanskrit": "paschimottanasana_sanskrit.mp3",
+    "audio_english": "paschimottanasana_english.mp3"
   },
   {
     "id": "asana_12",
@@ -104,8 +104,8 @@
     "english_name": "Dynamic Back Stretch Pose",
     "category": "HATHA YOGA - ASANA DI FLESSIONE IN AVANTI",
     "image": "GATYATMAK PASCHIMOTTANASANA.png",
-    "audio_sanskrit": "gatyatmak_paschimottanasana.mp3",
-    "audio_english": "dynamic_back_stretch_pose.mp3"
+    "audio_sanskrit": "gatyatmak_paschimottanasana_sanskrit.mp3",
+    "audio_english": "gatyatmak_paschimottanasana_english.mp3"
   },
   {
     "id": "asana_13",
@@ -113,8 +113,8 @@
     "english_name": "Forward Bend With Legs Wide Hands Rest On The Thighs",
     "category": "HATHA YOGA - ASANA DI FLESSIONE IN AVANTI",
     "image": "PADA PRASAR PASCHIMOTTANASANA.png",
-    "audio_sanskrit": "pada_prasar_paschimottanasana.mp3",
-    "audio_english": "forward_bend_with_legs_wide_hands_rest_on_the_thighs.mp3"
+    "audio_sanskrit": "pada_prasar_paschimottanasana_sanskrit.mp3",
+    "audio_english": "pada_prasar_paschimottanasana_english.mp3"
   },
   {
     "id": "asana_14",
@@ -122,8 +122,8 @@
     "english_name": "Head On Knee Pose",
     "category": "HATHA YOGA - ASANA DI FLESSIONE IN AVANTI",
     "image": "JANU SIRSHASANA.png",
-    "audio_sanskrit": "janu_sirshasana.mp3",
-    "audio_english": "head_on_knee_pose.mp3"
+    "audio_sanskrit": "janu_sirshasana_sanskrit.mp3",
+    "audio_english": "janu_sirshasana_english.mp3"
   },
   {
     "id": "asana_15",
@@ -131,8 +131,8 @@
     "english_name": "Half Bound Lotus Forward Fold",
     "category": "HATHA YOGA - ASANA DI FLESSIONE IN AVANTI",
     "image": "ARDHA PADMA PASCHIMOTTANASANA.png",
-    "audio_sanskrit": "ardha_padma_paschimottanasana.mp3",
-    "audio_english": "half_bound_lotus_forward_fold.mp3"
+    "audio_sanskrit": "ardha_padma_paschimottanasana_sanskrit.mp3",
+    "audio_english": "ardha_padma_paschimottanasana_english.mp3"
   },
   {
     "id": "asana_16",
@@ -140,8 +140,8 @@
     "english_name": "Extended Hand To Big Toe Pose",
     "category": "HATHA YOGA - ASANA DI FLESSIONE IN AVANTI",
     "image": "HASTA PADA ANGUSHTHASANA.png",
-    "audio_sanskrit": "hasta_pada_angushthasana.mp3",
-    "audio_english": "extended_hand_to_big_toe_pose.mp3"
+    "audio_sanskrit": "hasta_pada_angushthasana_sanskrit.mp3",
+    "audio_english": "hasta_pada_angushthasana_english.mp3"
   },
   {
     "id": "asana_17",
@@ -149,8 +149,8 @@
     "english_name": "Gorilla Pose",
     "category": "HATHA YOGA - ASANA DI FLESSIONE IN AVANTI",
     "image": "PADAHASTASANA.png",
-    "audio_sanskrit": "padahastasana.mp3",
-    "audio_english": "gorilla_pose.mp3"
+    "audio_sanskrit": "padahastasana_sanskrit.mp3",
+    "audio_english": "padahastasana_english.mp3"
   },
   {
     "id": "asana_18",
@@ -158,8 +158,8 @@
     "english_name": "Standing Head Between Knees Pose",
     "category": "HATHA YOGA - ASANA DI FLESSIONE IN AVANTI",
     "image": "UTTHITA JANU SIRSHASANA.png",
-    "audio_sanskrit": "utthita_janu_sirshasana.mp3",
-    "audio_english": "standing_head_between_knees_pose.mp3"
+    "audio_sanskrit": "utthita_janu_sirshasana_sanskrit.mp3",
+    "audio_english": "utthita_janu_sirshasana_english.mp3"
   },
   {
     "id": "asana_19",
@@ -167,8 +167,8 @@
     "english_name": "Easy Cobra Pose",
     "category": "HATHA YOGA - ASANA DI FLESSIONE ALL'INDIETRO",
     "image": "SARAL BHUJANGASANA.png",
-    "audio_sanskrit": "saral_bhujangasana.mp3",
-    "audio_english": "easy_cobra_pose.mp3"
+    "audio_sanskrit": "saral_bhujangasana_sanskrit.mp3",
+    "audio_english": "saral_bhujangasana_english.mp3"
   },
   {
     "id": "asana_20",
@@ -176,8 +176,8 @@
     "english_name": "Twisted Cobra Pose",
     "category": "HATHA YOGA - ASANA DI FLESSIONE ALL'INDIETRO",
     "image": "TIRYAKA BHUJANGASANA.png",
-    "audio_sanskrit": "tiryaka_bhujangasana.mp3",
-    "audio_english": "twisted_cobra_pose.mp3"
+    "audio_sanskrit": "tiryaka_bhujangasana_sanskrit.mp3",
+    "audio_english": "tiryaka_bhujangasana_english.mp3"
   },
   {
     "id": "asana_21",
@@ -185,8 +185,8 @@
     "english_name": "Snake Pose",
     "category": "HATHA YOGA - ASANA DI FLESSIONE ALL'INDIETRO",
     "image": "SARPASANA.png",
-    "audio_sanskrit": "sarpasana.mp3",
-    "audio_english": "snake_pose.mp3"
+    "audio_sanskrit": "sarpasana_sanskrit.mp3",
+    "audio_english": "sarpasana_english.mp3"
   },
   {
     "id": "asana_22",
@@ -194,8 +194,8 @@
     "english_name": "Half Lotus Pose",
     "category": "HATHA YOGA - ASANA DI FLESSIONE ALL'INDIETRO",
     "image": "ARDHA SHALBHASANA.png",
-    "audio_sanskrit": "ardha_shalbhasana.mp3",
-    "audio_english": "half_lotus_pose.mp3"
+    "audio_sanskrit": "ardha_shalbhasana_sanskrit.mp3",
+    "audio_english": "ardha_shalbhasana_english.mp3"
   },
   {
     "id": "asana_23",
@@ -203,8 +203,8 @@
     "english_name": "Locust Pose",
     "category": "HATHA YOGA - ASANA DI FLESSIONE ALL'INDIETRO",
     "image": "SHALABHASANA.png",
-    "audio_sanskrit": "shalabhasana.mp3",
-    "audio_english": "locust_pose.mp3"
+    "audio_sanskrit": "shalabhasana_sanskrit.mp3",
+    "audio_english": "shalabhasana_english.mp3"
   },
   {
     "id": "asana_24",
@@ -212,8 +212,8 @@
     "english_name": "Easy Bow Pose",
     "category": "HATHA YOGA - ASANA DI FLESSIONE ALL'INDIETRO",
     "image": "SARAL DHANURASANA.png",
-    "audio_sanskrit": "saral_dhanurasana.mp3",
-    "audio_english": "easy_bow_pose.mp3"
+    "audio_sanskrit": "saral_dhanurasana_sanskrit.mp3",
+    "audio_english": "saral_dhanurasana_english.mp3"
   },
   {
     "id": "asana_25",
@@ -221,8 +221,8 @@
     "english_name": "Shoulder Pose",
     "category": "HATHA YOGA - ASANA DI FLESSIONE ALL'INDIETRO",
     "image": "KHANDHARASANA.png",
-    "audio_sanskrit": "khandharasana.mp3",
-    "audio_english": "shoulder_pose.mp3"
+    "audio_sanskrit": "khandharasana_sanskrit.mp3",
+    "audio_english": "khandharasana_english.mp3"
   },
   {
     "id": "asana_26",
@@ -230,8 +230,8 @@
     "english_name": "Half Moon Pose",
     "category": "HATHA YOGA - ASANA DI FLESSIONE ALL'INDIETRO",
     "image": "ARDHA CHANDRASANA.png",
-    "audio_sanskrit": "ardha_chandrasana.mp3",
-    "audio_english": "half_moon_pose.mp3"
+    "audio_sanskrit": "ardha_chandrasana_sanskrit.mp3",
+    "audio_english": "ardha_chandrasana_english.mp3"
   },
   {
     "id": "asana_27",
@@ -239,8 +239,8 @@
     "english_name": "Cow Face Pose",
     "category": "HATHA YOGA - ASANA DI FLESSIONE ALL'INDIETRO",
     "image": "GOMUKHASANA.png",
-    "audio_sanskrit": "gomukhasana.mp3",
-    "audio_english": "cow_face_pose.mp3"
+    "audio_sanskrit": "gomukhasana_sanskrit.mp3",
+    "audio_english": "gomukhasana_english.mp3"
   },
   {
     "id": "asana_28",
@@ -248,8 +248,8 @@
     "english_name": "Lizard Pose",
     "category": "HATHA YOGA - ASANA DI FLESSIONE ALL'INDIETRO",
     "image": "UTTHAN PRISTHASANA.png",
-    "audio_sanskrit": "utthan_pristhasana.mp3",
-    "audio_english": "lizard_pose.mp3"
+    "audio_sanskrit": "utthan_pristhasana_sanskrit.mp3",
+    "audio_english": "utthan_pristhasana_english.mp3"
   },
   {
     "id": "asana_29",
@@ -257,8 +257,8 @@
     "english_name": "Bridge Pose",
     "category": "HATHA YOGA - ASANA DI FLESSIONE ALL'INDIETRO",
     "image": "SETU ASANA.png",
-    "audio_sanskrit": "setu_asana.mp3",
-    "audio_english": "bridge_pose.mp3"
+    "audio_sanskrit": "setu_asana_sanskrit.mp3",
+    "audio_english": "setu_asana_english.mp3"
   },
   {
     "id": "asana_30",
@@ -266,8 +266,8 @@
     "english_name": "Wheel Pose",
     "category": "HATHA YOGA - ASANA DI FLESSIONE ALL'INDIETRO",
     "image": "CHAKRASANA.png",
-    "audio_sanskrit": "chakrasana.mp3",
-    "audio_english": "wheel_pose.mp3"
+    "audio_sanskrit": "chakrasana_sanskrit.mp3",
+    "audio_english": "chakrasana_english.mp3"
   },
   {
     "id": "asana_31",
@@ -275,8 +275,8 @@
     "english_name": "Easy Pose",
     "category": "HATHA YOGA - ASANA DI MEDITAZIONE",
     "image": "SUKHASANA.png",
-    "audio_sanskrit": "sukhasana.mp3",
-    "audio_english": "easy_pose.mp3"
+    "audio_sanskrit": "sukhasana_sanskrit.mp3",
+    "audio_english": "sukhasana_english.mp3"
   },
   {
     "id": "asana_32",
@@ -284,8 +284,8 @@
     "english_name": "Half Lotus Pose",
     "category": "HATHA YOGA - ASANA DI MEDITAZIONE",
     "image": "ARDHA PADMASANA.png",
-    "audio_sanskrit": "ardha_padmasana.mp3",
-    "audio_english": "half_lotus_pose.mp3"
+    "audio_sanskrit": "ardha_padmasana_sanskrit.mp3",
+    "audio_english": "ardha_padmasana_english.mp3"
   },
   {
     "id": "asana_33",
@@ -293,8 +293,8 @@
     "english_name": "Lotus Pose",
     "category": "HATHA YOGA - ASANA DI MEDITAZIONE",
     "image": "PADMASANA.png",
-    "audio_sanskrit": "padmasana.mp3",
-    "audio_english": "lotus_pose.mp3"
+    "audio_sanskrit": "padmasana_sanskrit.mp3",
+    "audio_english": "padmasana_english.mp3"
   },
   {
     "id": "asana_34",
@@ -302,8 +302,8 @@
     "english_name": "Perfect Pose",
     "category": "HATHA YOGA - ASANA DI MEDITAZIONE",
     "image": "SIDDHASANA.png",
-    "audio_sanskrit": "siddhasana.mp3",
-    "audio_english": "perfect_pose.mp3"
+    "audio_sanskrit": "siddhasana_sanskrit.mp3",
+    "audio_english": "siddhasana_english.mp3"
   },
   {
     "id": "asana_35",
@@ -311,8 +311,8 @@
     "english_name": "Accomplished Pose For Women",
     "category": "HATHA YOGA - ASANA DI MEDITAZIONE",
     "image": "SIDHA YONI ASANA.png",
-    "audio_sanskrit": "sidha_yoni_asana.mp3",
-    "audio_english": "accomplished_pose_for_women.mp3"
+    "audio_sanskrit": "sidha_yoni_asana_sanskrit.mp3",
+    "audio_english": "sidha_yoni_asana_english.mp3"
   },
   {
     "id": "asana_36",
@@ -320,8 +320,8 @@
     "english_name": "Auspicious Pose",
     "category": "HATHA YOGA - ASANA DI MEDITAZIONE",
     "image": "SWASTIKASANA.png",
-    "audio_sanskrit": "swastikasana.mp3",
-    "audio_english": "auspicious_pose.mp3"
+    "audio_sanskrit": "swastikasana_sanskrit.mp3",
+    "audio_english": "swastikasana_english.mp3"
   },
   {
     "id": "asana_37",
@@ -329,8 +329,8 @@
     "english_name": "Spinal Twist Pose",
     "category": "HATHA YOGA - ASANA DI TORSIONE DELLA COLONNA VERTEBRALE",
     "image": "MERU WAKRASANA.png",
-    "audio_sanskrit": "meru_wakrasana.mp3",
-    "audio_english": "spinal_twist_pose.mp3"
+    "audio_sanskrit": "meru_wakrasana_sanskrit.mp3",
+    "audio_english": "meru_wakrasana_english.mp3"
   },
   {
     "id": "asana_38",
@@ -338,8 +338,8 @@
     "english_name": "Greeting The Earth Pose",
     "category": "HATHA YOGA - ASANA DI TORSIONE DELLA COLONNA VERTEBRALE",
     "image": "BHU NAMANASANA.png",
-    "audio_sanskrit": "bhu_namanasana.mp3",
-    "audio_english": "greeting_the_earth_pose.mp3"
+    "audio_sanskrit": "bhu_namanasana_sanskrit.mp3",
+    "audio_english": "bhu_namanasana_english.mp3"
   },
   {
     "id": "asana_39",
@@ -347,8 +347,8 @@
     "english_name": "Half Lord Of The Fishes Pose",
     "category": "HATHA YOGA - ASANA DI TORSIONE DELLA COLONNA VERTEBRALE",
     "image": "ARDHA MATSYENDRASANA.png",
-    "audio_sanskrit": "ardha_matsyendrasana.mp3",
-    "audio_english": "half_lord_of_the_fishes_pose.mp3"
+    "audio_sanskrit": "ardha_matsyendrasana_sanskrit.mp3",
+    "audio_english": "ardha_matsyendrasana_english.mp3"
   },
   {
     "id": "asana_40",
@@ -356,8 +356,8 @@
     "english_name": "Revolved Head-To-Knee Pose",
     "category": "HATHA YOGA - ASANA DI TORSIONE DELLA COLONNA VERTEBRALE",
     "image": "PARIVRITTI JANU SIRSHASANA.png",
-    "audio_sanskrit": "parivritti_janu_sirshasana.mp3",
-    "audio_english": "revolved_head-to-knee_pose.mp3"
+    "audio_sanskrit": "parivritti_janu_sirshasana_sanskrit.mp3",
+    "audio_english": "parivritti_janu_sirshasana_english.mp3"
   },
   {
     "id": "asana_41",
@@ -365,8 +365,8 @@
     "english_name": "Thunderbolt Pose",
     "category": "HATHA YOGA - VAJRASANA ASANAS",
     "image": "VAJRASANA.png",
-    "audio_sanskrit": "vajrasana.mp3",
-    "audio_english": "thunderbolt_pose.mp3"
+    "audio_sanskrit": "vajrasana_sanskrit.mp3",
+    "audio_english": "vajrasana_english.mp3"
   },
   {
     "id": "asana_42",
@@ -374,8 +374,8 @@
     "english_name": "Intoxicating Bliss Pose",
     "category": "HATHA YOGA - VAJRASANA ASANAS",
     "image": "ANANDA MADIRASANA.png",
-    "audio_sanskrit": "ananda_madirasana.mp3",
-    "audio_english": "intoxicating_bliss_pose.mp3"
+    "audio_sanskrit": "ananda_madirasana_sanskrit.mp3",
+    "audio_english": "ananda_madirasana_english.mp3"
   },
   {
     "id": "asana_43",
@@ -383,8 +383,8 @@
     "english_name": "Gracious Pose",
     "category": "HATHA YOGA - VAJRASANA ASANAS",
     "image": "BHADRASANA.png",
-    "audio_sanskrit": "bhadrasana.mp3",
-    "audio_english": "gracious_pose.mp3"
+    "audio_sanskrit": "bhadrasana_sanskrit.mp3",
+    "audio_english": "bhadrasana_english.mp3"
   },
   {
     "id": "asana_44",
@@ -392,8 +392,8 @@
     "english_name": "Lione Pose",
     "category": "HATHA YOGA - VAJRASANA ASANAS",
     "image": "SIMHASANA.png",
-    "audio_sanskrit": "simhasana.png.mp3",
-    "audio_english": "lione_pose.mp3"
+    "audio_sanskrit": "simhasana_png_sanskrit.mp3",
+    "audio_english": "simhasana_png_english.mp3"
   },
   {
     "id": "asana_45",
@@ -401,8 +401,8 @@
     "english_name": "Hero Pose",
     "category": "HATHA YOGA - VAJRASANA ASANAS",
     "image": "VEERASANA.png",
-    "audio_sanskrit": "veerasana.mp3",
-    "audio_english": "hero_pose.mp3"
+    "audio_sanskrit": "veerasana_sanskrit.mp3",
+    "audio_english": "veerasana_english.mp3"
   },
   {
     "id": "asana_46",
@@ -410,8 +410,8 @@
     "english_name": "Cat Pose",
     "category": "HATHA YOGA - VAJRASANA ASANAS",
     "image": "MARJARI ASANA.png",
-    "audio_sanskrit": "marjari_asana.mp3",
-    "audio_english": "cat_pose.mp3"
+    "audio_sanskrit": "marjari_asana_sanskrit.mp3",
+    "audio_english": "marjari_asana_english.mp3"
   },
   {
     "id": "asana_47",
@@ -419,8 +419,8 @@
     "english_name": "Tiger Pose",
     "category": "HATHA YOGA - VAJRASANA ASANAS",
     "image": "VYAGHRASANA.png",
-    "audio_sanskrit": "vyaghrasana.mp3",
-    "audio_english": "tiger_pose.mp3"
+    "audio_sanskrit": "vyaghrasana_sanskrit.mp3",
+    "audio_english": "vyaghrasana_english.mp3"
   },
   {
     "id": "asana_48",
@@ -428,8 +428,8 @@
     "english_name": "Rabbit Pose",
     "category": "HATHA YOGA - VAJRASANA ASANAS",
     "image": "SHASHANKASANA.png",
-    "audio_sanskrit": "shashankasana.mp3",
-    "audio_english": "rabbit_pose.mp3"
+    "audio_sanskrit": "shashankasana_sanskrit.mp3",
+    "audio_english": "shashankasana_english.mp3"
   },
   {
     "id": "asana_49",
@@ -437,8 +437,8 @@
     "english_name": "Sphinx Pose",
     "category": "HATHA YOGA - VAJRASANA ASANAS",
     "image": "SHALABHASANA BHUJANGASANA.png",
-    "audio_sanskrit": "shalabhasana_bhujangasana.mp3",
-    "audio_english": "sphinx_pose.mp3"
+    "audio_sanskrit": "shalabhasana_bhujangasana_sanskrit.mp3",
+    "audio_english": "shalabhasana_bhujangasana_english.mp3"
   },
   {
     "id": "asana_50",
@@ -446,8 +446,8 @@
     "english_name": "Prostration Pose",
     "category": "HATHA YOGA - VAJRASANA ASANAS",
     "image": "NAMAN PRANAMASANA.png",
-    "audio_sanskrit": "naman_pranamasana.mp3",
-    "audio_english": "prostration_pose.mp3"
+    "audio_sanskrit": "naman_pranamasana_sanskrit.mp3",
+    "audio_english": "naman_pranamasana_english.mp3"
   },
   {
     "id": "asana_51",
@@ -455,8 +455,8 @@
     "english_name": "Half Camel Pose",
     "category": "HATHA YOGA - VAJRASANA ASANAS",
     "image": "ARDHA USHTRASANA.png",
-    "audio_sanskrit": "ardha_ushtrasana.mp3",
-    "audio_english": "half_camel_pose.mp3"
+    "audio_sanskrit": "ardha_ushtrasana_sanskrit.mp3",
+    "audio_english": "ardha_ushtrasana_english.mp3"
   },
   {
     "id": "asana_52",
@@ -464,8 +464,8 @@
     "english_name": "Camel Pose",
     "category": "HATHA YOGA - VAJRASANA ASANAS",
     "image": "USTRASANA.png",
-    "audio_sanskrit": "ustrasana.mp3",
-    "audio_english": "camel_pose.mp3"
+    "audio_sanskrit": "ustrasana_sanskrit.mp3",
+    "audio_english": "ustrasana_english.mp3"
   },
   {
     "id": "asana_53",
@@ -473,8 +473,8 @@
     "english_name": "Reclined Thunderbolt Pose",
     "category": "HATHA YOGA - VAJRASANA ASANAS",
     "image": "SUPTA VAJRASANA.png",
-    "audio_sanskrit": "supta_vajrasana.mp3",
-    "audio_english": "reclined_thunderbolt_pose.mp3"
+    "audio_sanskrit": "supta_vajrasana_sanskrit.mp3",
+    "audio_english": "supta_vajrasana_english.mp3"
   },
   {
     "id": "asana_54",
@@ -482,8 +482,8 @@
     "english_name": "The One-Legged Prayer Pose",
     "category": "HATHA YOGA - ASANA DI EQUILIBRIO",
     "image": "EKA PADA PRANAMASANA.png",
-    "audio_sanskrit": "eka_pada_pranamasana.mp3",
-    "audio_english": "the_one-legged_prayer_pose.mp3"
+    "audio_sanskrit": "eka_pada_pranamasana_sanskrit.mp3",
+    "audio_english": "eka_pada_pranamasana_english.mp3"
   },
   {
     "id": "asana_55",
@@ -491,8 +491,8 @@
     "english_name": "Common Eagle Pose",
     "category": "HATHA YOGA - ASANA DI EQUILIBRIO",
     "image": "GARUDASANA.png",
-    "audio_sanskrit": "garudasana.mp3",
-    "audio_english": "common_eagle_pose.mp3"
+    "audio_sanskrit": "garudasana_sanskrit.mp3",
+    "audio_english": "garudasana_english.mp3"
   },
   {
     "id": "asana_56",
@@ -500,8 +500,8 @@
     "english_name": "Preparatory King Dancer",
     "category": "HATHA YOGA - ASANA DI EQUILIBRIO",
     "image": "SARAL NATARAJASANA.png",
-    "audio_sanskrit": "saral_natarajasana.mp3",
-    "audio_english": "preparatory_king_dancer.mp3"
+    "audio_sanskrit": "saral_natarajasana_sanskrit.mp3",
+    "audio_english": "saral_natarajasana_english.mp3"
   },
   {
     "id": "asana_57",
@@ -509,8 +509,8 @@
     "english_name": "Standing Split Pose",
     "category": "HATHA YOGA - ASANA DI EQUILIBRIO",
     "image": "EKA PADASANA.png",
-    "audio_sanskrit": "eka_padasana.mp3",
-    "audio_english": "standing_split_pose.mp3"
+    "audio_sanskrit": "eka_padasana_sanskrit.mp3",
+    "audio_english": "eka_padasana_english.mp3"
   },
   {
     "id": "asana_58",
@@ -518,8 +518,8 @@
     "english_name": "Crane Pose",
     "category": "HATHA YOGA - ASANA DI EQUILIBRIO",
     "image": "BAKASANA.png",
-    "audio_sanskrit": "bakasana.mp3",
-    "audio_english": "crane_pose.mp3"
+    "audio_sanskrit": "bakasana_sanskrit.mp3",
+    "audio_english": "bakasana_english.mp3"
   },
   {
     "id": "asana_59",
@@ -527,8 +527,8 @@
     "english_name": "Standing Hand To Big Toe Pose",
     "category": "HATHA YOGA - ASANA DI EQUILIBRIO",
     "image": "UTTHITA HASTA PADANGUSTHASANA.png",
-    "audio_sanskrit": "utthita_hasta_padangusthasana.mp3",
-    "audio_english": "standing_hand_to_big_toe_pose.mp3"
+    "audio_sanskrit": "utthita_hasta_padangusthasana_sanskrit.mp3",
+    "audio_english": "utthita_hasta_padangusthasana_english.mp3"
   },
   {
     "id": "asana_60",
@@ -536,8 +536,8 @@
     "english_name": "Spinal Column Pose",
     "category": "HATHA YOGA - ASANA DI EQUILIBRIO",
     "image": "MERUDANDASANA.png",
-    "audio_sanskrit": "merudandasana.mp3",
-    "audio_english": "spinal_column_pose.mp3"
+    "audio_sanskrit": "merudandasana_sanskrit.mp3",
+    "audio_english": "merudandasana_english.mp3"
   },
   {
     "id": "asana_61",
@@ -545,8 +545,8 @@
     "english_name": "Half Bound Lotus Standing Forward Bend",
     "category": "HATHA YOGA - ASANA DI EQUILIBRIO",
     "image": "ARDHA PADMA PADMOTTANASANA.png",
-    "audio_sanskrit": "ardha_padma_padmottanasana.mp3",
-    "audio_english": "half_bound_lotus_standing_forward_bend.mp3"
+    "audio_sanskrit": "ardha_padma_padmottanasana_sanskrit.mp3",
+    "audio_english": "ardha_padma_padmottanasana_english.mp3"
   },
   {
     "id": "asana_62",
@@ -554,8 +554,8 @@
     "english_name": "Patient Crane Pose",
     "category": "HATHA YOGA - ASANA DI EQUILIBRIO",
     "image": "BAKA DHYANASANA.png",
-    "audio_sanskrit": "baka_dhyanasana.mp3",
-    "audio_english": "patient_crane_pose.mp3"
+    "audio_sanskrit": "baka_dhyanasana_sanskrit.mp3",
+    "audio_english": "baka_dhyanasana_english.mp3"
   },
   {
     "id": "asana_63",
@@ -563,8 +563,8 @@
     "english_name": "One Legged Insect Pose",
     "category": "HATHA YOGA - ASANA DI EQUILIBRIO",
     "image": "EKA HASTA BHUJANGASANA.png",
-    "audio_sanskrit": "eka_hasta_bhujangasana.mp3",
-    "audio_english": "one_legged_insect_pose.mp3"
+    "audio_sanskrit": "eka_hasta_bhujangasana_sanskrit.mp3",
+    "audio_english": "eka_hasta_bhujangasana_english.mp3"
   },
   {
     "id": "asana_64",
@@ -572,8 +572,8 @@
     "english_name": "Balancing Pose",
     "category": "HATHA YOGA - ASANA DI EQUILIBRIO",
     "image": "SANTOLANASANA.png",
-    "audio_sanskrit": "santolanasana.mp3",
-    "audio_english": "balancing_pose.mp3"
+    "audio_sanskrit": "santolanasana_sanskrit.mp3",
+    "audio_english": "santolanasana_english.mp3"
   },
   {
     "id": "asana_65",
@@ -581,8 +581,8 @@
     "english_name": "Half Headstand",
     "category": "HATHA YOGA - ASANA INVERTITE",
     "image": "BHUMI PADA MASTAKASANA.png",
-    "audio_sanskrit": "bhumi_pada_mastakasana.mp3",
-    "audio_english": "half_headstand.mp3"
+    "audio_sanskrit": "bhumi_pada_mastakasana_sanskrit.mp3",
+    "audio_english": "bhumi_pada_mastakasana_english.mp3"
   },
   {
     "id": "asana_66",
@@ -590,8 +590,8 @@
     "english_name": "Crown-Based Pose",
     "category": "HATHA YOGA - ASANA INVERTITE",
     "image": "MOORDHASANA.png",
-    "audio_sanskrit": "moordhasana.mp3",
-    "audio_english": "crown-based_pose.mp3"
+    "audio_sanskrit": "moordhasana_sanskrit.mp3",
+    "audio_english": "moordhasana_english.mp3"
   },
   {
     "id": "asana_67",
@@ -599,8 +599,8 @@
     "english_name": "Legs Up The Wall Pose",
     "category": "HATHA YOGA - ASANA INVERTITE",
     "image": "VIPAREET KARANI ASANA.png",
-    "audio_sanskrit": "vipareet_karani_asana.mp3",
-    "audio_english": "legs_up_the_wall_pose.mp3"
+    "audio_sanskrit": "vipareet_karani_asana_sanskrit.mp3",
+    "audio_english": "vipareet_karani_asana_english.mp3"
   },
   {
     "id": "asana_68",
@@ -608,8 +608,8 @@
     "english_name": "Shoulder Stand",
     "category": "HATHA YOGA - ASANA INVERTITE",
     "image": "SARVANGASANA.png",
-    "audio_sanskrit": "sarvangasana.mp3",
-    "audio_english": "shoulder_stand.mp3"
+    "audio_sanskrit": "sarvangasana_sanskrit.mp3",
+    "audio_english": "sarvangasana_english.mp3"
   },
   {
     "id": "asana_69",
@@ -617,8 +617,8 @@
     "english_name": "Side One Legged Shoulderstand Pose",
     "category": "HATHA YOGA - ASANA INVERTITE",
     "image": "PADA SARVANGASANA.png",
-    "audio_sanskrit": "pada_sarvangasana.mp3",
-    "audio_english": "side_one_legged_shoulderstand_pose.mp3"
+    "audio_sanskrit": "pada_sarvangasana_sanskrit.mp3",
+    "audio_english": "pada_sarvangasana_english.mp3"
   },
   {
     "id": "asana_70",
@@ -626,8 +626,8 @@
     "english_name": "Preliminary Plough Pose",
     "category": "HATHA YOGA - ASANA INVERTITE",
     "image": "POORWA HALASANA.png",
-    "audio_sanskrit": "poorwa_halasana.mp3",
-    "audio_english": "preliminary_plough_pose.mp3"
+    "audio_sanskrit": "poorwa_halasana_sanskrit.mp3",
+    "audio_english": "poorwa_halasana_english.mp3"
   },
   {
     "id": "asana_71",
@@ -635,8 +635,8 @@
     "english_name": "Plough Pose",
     "category": "HATHA YOGA - ASANA INVERTITE",
     "image": "HALASANA.png",
-    "audio_sanskrit": "halasana.mp3",
-    "audio_english": "plough_pose.mp3"
+    "audio_sanskrit": "halasana_sanskrit.mp3",
+    "audio_english": "halasana_english.mp3"
   },
   {
     "id": "asana_72",
@@ -644,8 +644,8 @@
     "english_name": "Dynamic Plough Pose",
     "category": "HATHA YOGA - ASANA INVERTITE",
     "image": "DRUTA HALASANA.png",
-    "audio_sanskrit": "druta_halasana.mp3",
-    "audio_english": "dynamic_plough_pose.mp3"
+    "audio_sanskrit": "druta_halasana_sanskrit.mp3",
+    "audio_english": "druta_halasana_english.mp3"
   },
   {
     "id": "asana_73",
@@ -653,8 +653,8 @@
     "english_name": "Headstand Pose",
     "category": "HATHA YOGA - ASANA INVERTITE",
     "image": "SIRSHASNA.png",
-    "audio_sanskrit": "sirshasna.mp3",
-    "audio_english": "headstand_pose.mp3"
+    "audio_sanskrit": "sirshasna_sanskrit.mp3",
+    "audio_english": "sirshasna_english.mp3"
   },
   {
     "id": "asana_74",
@@ -662,8 +662,8 @@
     "english_name": "Supported Headstand",
     "category": "HATHA YOGA - ASANA INVERTITE",
     "image": "SALAMBA SIRSHASANA.png",
-    "audio_sanskrit": "salamba_sirshasana.png.mp3",
-    "audio_english": "supported_headstand.mp3"
+    "audio_sanskrit": "salamba_sirshasana_png_sanskrit.mp3",
+    "audio_english": "salamba_sirshasana_png_english.mp3"
   },
   {
     "id": "asana_75",
@@ -671,8 +671,8 @@
     "english_name": "Unsupported Headstand",
     "category": "HATHA YOGA - ASANA INVERTITE",
     "image": "NIRALAMBA SIRSHASANA.png",
-    "audio_sanskrit": "niralamba_sirshasana.mp3",
-    "audio_english": "unsupported_headstand.mp3"
+    "audio_sanskrit": "niralamba_sirshasana_sanskrit.mp3",
+    "audio_english": "niralamba_sirshasana_english.mp3"
   },
   {
     "id": "asana_76",
@@ -680,7 +680,7 @@
     "english_name": "Forehead Supported Pose",
     "category": "HATHA YOGA - ASANA INVERTITE",
     "image": "KAPALI ASANA.png",
-    "audio_sanskrit": "kapali_asana.mp3",
-    "audio_english": "forehead_supported_pose.mp3"
+    "audio_sanskrit": "kapali_asana_sanskrit.mp3",
+    "audio_english": "kapali_asana_english.mp3"
   }
 ]
